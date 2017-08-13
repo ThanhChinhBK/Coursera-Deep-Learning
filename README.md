@@ -1,2 +1,3 @@
 "# Coursera-Deep-Learning" 
-Deep learning course solution ipython notebook
+
+Deep learning course solutions ipython notebook
